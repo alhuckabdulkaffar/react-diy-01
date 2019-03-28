@@ -1,0 +1,14 @@
+.Cockpit button.Green {
+    background: green;
+    color: white;
+  }
+  
+.Cockpit button.Red {
+background: red;
+color: white;
+}
+
+.Cockpit button:hover {
+cursor: pointer;
+}
+  

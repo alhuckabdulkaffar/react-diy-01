@@ -1,0 +1,13 @@
+.Person {
+    border: 1px solid black;
+    background-color : green;
+    width: 60%;
+    height: 100px;
+    margin: 10px auto;
+}
+
+@media (min-width: 450px) {
+    .Person {
+      width: 400px;
+    }
+  }
